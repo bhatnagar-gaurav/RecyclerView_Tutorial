@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">RecyclerView-List</string>
-    <string name="size_template">Magnitude: %d</string>
-    <string name="avatar">Avatar</string>
-</resources>
